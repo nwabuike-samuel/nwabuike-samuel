@@ -21,7 +21,7 @@ Hi, I'm Samuel Nwabuike
 👩🏿‍🔧 I am a Data Analyst
 💻 Interested in Machine Learning and AI
 📚 Learning about Neural Networks
-🤝 Would love to collaborate on ML, DL & AI projects
+🤝 Would love to collaborate on ML & AI projects
 ```
 <hr>
 
@@ -77,8 +77,8 @@ Hi, I'm Samuel Nwabuike
 ## 🎯GitHub Stats 
 |                                                             |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Posi's github stats](https://github-readme-stats.vercel.app/api?username=nwabuike-samuel&show_icons=true&theme=radical)                | 
-| ![Posi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nwabuike-samuel&theme=radical)  |
+| ![Sam's github stats](https://github-readme-stats.vercel.app/api?username=nwabuike-samuel&show_icons=true&theme=radical)                | 
+| ![Sam's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nwabuike-samuel&theme=radical)  |
 
 <div ><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=nwabuike-samuel&langs_count=8&theme=radical&layout=compact">
 
